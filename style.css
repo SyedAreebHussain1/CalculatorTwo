@@ -1,0 +1,81 @@
+.main{
+    margin: 0 auto;
+    padding: 0;
+    background: black;
+    width: 152px;
+    border:1px solid rgb(28, 28, 28);
+}
+.input{
+    background: black;
+    margin-top: 7px;
+    width: 148px;
+    height: 30px;
+    border: none;
+    color: azure;
+}
+hr{
+    height: 1px;
+    background-color: gray;
+    color: #fff;
+    border: none;
+}
+.btn{
+    margin-top: 2px;
+    width:35px;
+    height: 25px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
+.btnc{
+    color: green;
+}
+.clearbtn{
+    color: red;
+}
+.btnEqual{
+    background: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
